@@ -2,7 +2,7 @@
 function getAPIdata() {
 
 
-	fetch('http://api.openweathermap.org/data/2.5/forecast?q=Hoek%20van%20Holland,nl&appid=3389ccc0d1bac5cb8105b80018b2ee18', 	// de api link
+	fetch('https://api.openweathermap.org/data/2.5/forecast?q=Hoek%20van%20Holland,nl&appid=3389ccc0d1bac5cb8105b80018b2ee18', 	// de api link
 
 		)
 	
